@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/itty-bitty-dirt-co/static/css/main.e5282240.css",
-    "main.js": "/itty-bitty-dirt-co/static/js/main.949c0b34.js",
+    "main.js": "/itty-bitty-dirt-co/static/js/main.60e56b89.js",
     "static/js/787.8b344f75.chunk.js": "/itty-bitty-dirt-co/static/js/787.8b344f75.chunk.js",
     "static/media/article1_image.png": "/itty-bitty-dirt-co/static/media/article1_image.1a5238390cd5984b117d.png",
     "static/media/logo.png": "/itty-bitty-dirt-co/static/media/logo.bcd99026943191cfd9d7.png",
     "static/media/dirt_mound.jpeg": "/itty-bitty-dirt-co/static/media/dirt_mound.ea78c86c6eab77df72bf.jpeg",
     "index.html": "/itty-bitty-dirt-co/index.html",
     "main.e5282240.css.map": "/itty-bitty-dirt-co/static/css/main.e5282240.css.map",
-    "main.949c0b34.js.map": "/itty-bitty-dirt-co/static/js/main.949c0b34.js.map",
+    "main.60e56b89.js.map": "/itty-bitty-dirt-co/static/js/main.60e56b89.js.map",
     "787.8b344f75.chunk.js.map": "/itty-bitty-dirt-co/static/js/787.8b344f75.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e5282240.css",
-    "static/js/main.949c0b34.js"
+    "static/js/main.60e56b89.js"
   ]
 }
