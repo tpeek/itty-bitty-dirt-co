@@ -9,7 +9,7 @@ const Para = props => <p style={{ fontSize: 20 }} {...props} />;
 const Article1 = () => {
     return (
 <div style={{ lineHeight: 1.5 }}>
-  <h1 className="center" style={{ fontSize: 40 }}>What Is Topsoil? The Importance of Having Healthy Topsoil</h1>
+  <h1 style={{ textAlign: 'center', fontSize: 40 }}>What Is Topsoil? The Importance of Having Healthy Topsoil</h1>
   <img src={image} alt="plants" width="800" style={{ margin: '0 auto', display: 'block' }}></img>
   <caption style={{ margin: '0 auto', display: 'block' }}>Image Source: Pexels</caption>
   <div style={{ margin: '0 15%' }}>

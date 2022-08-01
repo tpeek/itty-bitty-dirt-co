@@ -95,7 +95,7 @@ function App() {
         </div>
       }
       {page === 'About' &&
-        <div style={{ margin: '0 15%' }}>
+        <div style={{ margin: '0 20%' }}>
           <h1>About</h1>
           <p style={{ fontSize: 20 }}>Itty Bitty Dirt Co. is a topsoil company that will sell you high quality, filtered to perfection dirt. We believe in staying small and local, so you can get your hands on our dirt.</p>
         </div>
