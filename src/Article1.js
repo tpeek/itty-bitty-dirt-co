@@ -1,16 +1,18 @@
 import image from './article1_image.png';
+import './App.css';
 
+// eslint-disable-next-line jsx-a11y/heading-has-content
 const Header = props => <h1 style={{ fontSize: 26 }} {...props} />;
 
 const Para = props => <p style={{ fontSize: 20 }} {...props} />;
 
 const Article1 = () => {
     return (
-<div>
-  <h1 style={{ textAlign: 'center', fontSize: 40 }}>What Is Topsoil? The Importance of Having Healthy Topsoil</h1>
+<div style={{ lineHeight: 1.5 }}>
+  <h1 className="center" style={{ fontSize: 40 }}>What Is Topsoil? The Importance of Having Healthy Topsoil</h1>
   <img src={image} alt="plants" width="800" style={{ margin: '0 auto', display: 'block' }}></img>
   <caption style={{ margin: '0 auto', display: 'block' }}>Image Source: Pexels</caption>
-  <div style={{ margin: '0 20%'}}>
+  <div style={{ margin: '0 15%' }}>
     <Para>Topsoil is the layer of loose, fertile soil found directly beneath the first few inches of earth in almost any natural landscape. In urban areas, topsoil is often referred to as “subsoil” and is most commonly seen in new construction projects when excavators are digging up the ground to lay utilities, build structures, or create basements. The depth and quality of topsoil varies depending on a variety of factors such as location and geology. Topsoil can be shallow or deep; it can be acidic or alkaline; it can be sandy or clayey; it can even be rich with nutrients or completely void of them. Whatever its makeup, healthy topsoil is crucial to maintaining a strong ecosystem and growing plants successfully.</Para>
 
     <Header>What Does Healthy Topsoil Look and Feel Like?</Header>
